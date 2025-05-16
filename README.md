@@ -7,8 +7,6 @@
 Este projeto consiste em uma **Landing Page institucional para a Auditmax Contabilidade**, desenvolvida com **HTML e CSS puros**. O objetivo é apresentar os serviços da empresa, destacando seus diferenciais e facilitando o contato para novos clientes. A página foi pensada para ser a porta de entrada digital da Auditmax, comunicando a solidez e a importância da contabilidade para o crescimento empresarial.
 
 ![image](https://github.com/user-attachments/assets/51e73f1b-e6d7-4db9-8c9d-03aed868f926)
-![image](https://github.com/user-attachments/assets/a8ce0e37-e0ea-49f1-8eb1-b4ef9aa9b4e5)
-![image](https://github.com/user-attachments/assets/1655a136-61df-474b-ac00-1c9c1fb15755)
 
 
 ## ✨ Funcionalidades e Destaques Técnicos
@@ -21,10 +19,14 @@ Este projeto consiste em uma **Landing Page institucional para a Auditmax Contab
 * **Iconografia e Imagens:** Utilização de ícones SVG e imagens para enriquecer o conteúdo e torná-lo mais visual.
 * **Navegação Fixa:** Menu superior que permite fácil acesso às seções principais da página.
 
+![image](https://github.com/user-attachments/assets/a8ce0e37-e0ea-49f1-8eb1-b4ef9aa9b4e5)
+
 ## 🛠️ Tecnologias Principais
 
 * **HTML5:** Para a estruturação semântica e acessível do conteúdo da página.
 * **CSS3:** Para toda a estilização, incluindo layout responsivo, tipografia, cores, gradientes, ícones e posicionamento de elementos.
+
+![image](https://github.com/user-attachments/assets/1655a136-61df-474b-ac00-1c9c1fb15755)
 
 ## 💡 Aprendizados e Desenvolvimento
 
